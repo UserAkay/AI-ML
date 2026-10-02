@@ -1,0 +1,1 @@
+# Stimulate flipping a coin 10000 times and calculate probabilities of heads/tails
